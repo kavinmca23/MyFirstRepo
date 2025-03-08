@@ -1,5 +1,6 @@
 myfriest line
-git initilizased
+git initilizasedQ
 got it 
 commiting new file form git UI
 please pull
+pulled to local repo successfully "git pull origin master"
