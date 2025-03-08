@@ -1,2 +1,5 @@
 myfriest line
 git initilizased
+got it 
+commiting new file form git UI
+please pull
